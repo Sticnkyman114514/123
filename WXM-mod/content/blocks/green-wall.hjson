@@ -1,0 +1,10 @@
+name: green Wall
+description: 拿这玩意儿做墙也是人才
+type: Wall
+health: 1250
+size: 1
+requirements: [
+  green/100
+]
+category: defense
+research: copper-wall
